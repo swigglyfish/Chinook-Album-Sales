@@ -1,1 +1,1 @@
-# Optimizing-Album-Sales-for-Chinook-Music-Store.
+# Optimizing-Album-Sales-for-Chinook-Music-Store
